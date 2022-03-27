@@ -1,1 +1,1 @@
-# Skill-Lab-Backend
+# EduLab-Backend
